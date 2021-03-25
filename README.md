@@ -1,2 +1,2 @@
 # Ragnarok
-This repository has been merged into the [CitiesSkylines-Mods](https://github.com/SexyFishHorse/CitiesSkylines-Mods). This repository is no longer maintained.
+Fork of old Ragnork repository - actual Asser-dk's mod is here: [CitiesSkylines-Mods](https://github.com/SexyFishHorse/CitiesSkylines-Mods/tree/master/Ragnarok). 
